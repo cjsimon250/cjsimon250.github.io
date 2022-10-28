@@ -9,9 +9,9 @@
 
 
 .expheader, h4, .keyskillheader, h3 {color: teal;
-  font-family: Tahoma, Geneva, sans-serif;}
+  font-family: Tahoma, Geneva, sans-serif; font-size: 18px}
 
-.text, .h5, li {font-family: Tahoma, Geneva, sans-serif}
+.text, .h5, li {font-family: Tahoma, Geneva, sans-serif; font-size: 17px}
 
 .jobs {font-family: Tahoma, Geneva, sans-serif;
 border: 1px solid grey;
