@@ -18,6 +18,8 @@ border: 1px solid grey;
 margin-left: 20px; margin-right: 20px;
 text-align: center}
 
-#text-container{width: 300px; display: block; float: left; padding-left: 60px}
+#text-container{width: 600px; display: block; float: left; padding-left: 100px}
 
 h5{font-size: 15px }
+
+body{background-color:white; margin: 10% 20%}
