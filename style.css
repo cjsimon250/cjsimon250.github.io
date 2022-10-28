@@ -1,1 +1,29 @@
+.name {color: teal; 
+  font-size: 18px; 
+  font-family: "Comic Sans MS", cursive;
+  text-align: center
+}
 
+.profile {font-family: "Comic Sans MS"; 
+  font-style: italic;
+  border: 1px solid grey;
+}
+
+
+.expheader, h4, .keyskillheader, h3 {color: teal;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.text, .h5, li {font-family: Tahoma, Geneva, sans-serif}
+
+.jobs {font-family: Tahoma, Geneva, sans-serif;
+border: 1px solid grey;
+margin-left: 20px; margin-right: 20px;
+text-align: center}
+
+#text-container{width: 300px; display: block; float: left
+}
+
+#text-left{width: 200px; text-align: left; float: left, display: block}
+
+#text-right{width: 200px; text-align: left; float: left, display: block}
